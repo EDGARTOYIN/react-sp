@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Red Hat Text";
+    src: url("/src/assets/fonts/RedHatText-Regular.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 400; /* Regular */
+  }
+
+  @font-face {
+    font-family: "Red Hat Text";
+    src: url("/src/assets/fonts/RedHatText-Semibold.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 600; /* Semibold */
+  }
+
+  @font-face {
+    font-family: "Red Hat Text";
+    src: url("/src/assets/fonts/RedHatText-Bold.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 700; /* Bold */
+  }
+}
