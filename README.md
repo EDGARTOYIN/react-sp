@@ -71,6 +71,6 @@ Personally, I like to work on HTML and CSS in parallel; I find that Tailwind spe
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EDGARTOYIN)
+- Frontend Mentor - [@EDGARTOYIN](https://www.frontendmentor.io/profile/EDGARTOYIN)
 
 ## Acknowledgments
